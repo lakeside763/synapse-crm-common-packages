@@ -1,4 +1,4 @@
-module github.com/lakeside763/synapse-crm-common-packages
+module github.com/lakeside763/synapse-crm-pkg
 
 go 1.22.3
 
